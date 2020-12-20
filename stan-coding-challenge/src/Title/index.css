@@ -1,0 +1,14 @@
+div {
+    height: 52px;
+    width: 100%;
+    background-color: #3D3435;
+    color: white;
+}
+
+div h2{
+    height: 100%;
+    display: flex;
+    margin-left: 52px;
+    align-items: center;
+    font-size: 17pt;
+}
